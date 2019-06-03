@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Weather",
+  "short_name": "Weather",
+  "version": "com.example.weather",
+  "description": "A sample Apache Cordova application that gives weather information.",
+  "author": "Apache Cordova Team",
+  "icons": [
+    {
+      "src": "res/icon/android/logofinal.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    }
+  ],
+  "start_url": "index.html"
+}
